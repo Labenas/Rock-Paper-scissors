@@ -20,7 +20,7 @@ namespace Rock_Paper_scissors
                 }
                 var playerChoice = ChoicePlayer();
                 
-                Winner(computerChoice,playerChoice,ref computerWinsCounter, ref playerWinsCounter);
+                Winner(playerChoice,computerChoice,ref computerWinsCounter, ref playerWinsCounter);
                
                 roundCounter++;
                 if (roundCounter < 6) 
