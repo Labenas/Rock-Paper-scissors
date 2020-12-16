@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rock-Paper-scissors", "Rock-Paper-scissors\Rock-Paper-scissors.csproj", "{B9C678DB-557D-489B-8567-9A5A63D13B65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C678DB-557D-489B-8567-9A5A63D13B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C678DB-557D-489B-8567-9A5A63D13B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C678DB-557D-489B-8567-9A5A63D13B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C678DB-557D-489B-8567-9A5A63D13B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D868911-43B3-4F5A-A445-963C4CC949FC}
+	EndGlobalSection
+EndGlobal
